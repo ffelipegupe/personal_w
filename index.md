@@ -2,9 +2,15 @@
 
 You will get to know me, some of my projects and my interests.
 
-### Markdown
+## About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is **Felipe Gutierrez**. Actually, it's **Fabio** Felipe Gutierrez, there's some kind of tradition running in my family: since my great grandfather every _male_ born person is called Fabio, so everyone is called by their middle name. As for July 27th, 2021, I'm 27 years old and I live in Bogota, Colombia. I've completed the Foundations Curriculum and currently on Year 2 Web Stack Specialization at Holberton School.
+
+I'm motivated by learning topics that I don't have any kind of knowledge, I always like to learn new and different things! I'm naturally a very curios person and I enjoy to investigate and to read about everything, meaning, science, technology, physics, astronomy, planes, animals.  
+
+## Projetcs
+
+
 
 ```markdown
 Syntax highlighted code block
