@@ -19,6 +19,10 @@ This website was made for a lawayer's company so they can offer they services in
 
 [AYG Abogados Website](https://www.aygabogados.co/)
 
+## Resume
+
+To view my resume and/or download my resume: [Click here](https://pdfhost.io/v/O4yL2rTYb_CV_EN_FFGP_.pdf)
+
 ```markdown
 Syntax highlighted code block
 
