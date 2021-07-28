@@ -23,6 +23,23 @@ This website was made for a lawayer's company so they can offer they services in
 
 To view and/or download my resume: [Click here](https://pdfhost.io/v/O4yL2rTYb_CV_EN_FFGP_.pdf)
 
+## Contact me!
+
+[![Twitter URL.
+]("twitter_icon.png"
+"Let's go to my twitter profile.")
+](https://twitter.com/felipegupe)
+
+[![GitHub URL.
+](https://github.com/ffelipegupe
+"Let's go to my GitHub profile.")
+](https://github.com/ffelipegupe)
+
+[![LinkedIn URL.
+](https://www.linkedin.com/in/fabio-felipe-gutierrez/
+"Let's go to my LindedIn profile.")
+](https://www.linkedin.com/in/fabio-felipe-gutierrez/)
+
 ```markdown
 Syntax highlighted code block
 
