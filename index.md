@@ -8,12 +8,16 @@ My name is **Felipe Gutierrez**. Actually, it's **Fabio** Felipe Gutierrez, ther
 
 I'm motivated by learning topics that I don't have any kind of knowledge, I always like to learn new and different things! I'm naturally a very curios person and I enjoy to investigate and to read about everything, meaning, science, technology, physics, astronomy, planes, animals.  
 
-## Projetcs
+## Projects
 
 ### AYG Abogados Website
 
 <img src="sc_ayg.png" alt="Final result of the website"/>
 <img src="sc_us.png" alt="Final result of the website"/>
+
+This website was made for a lawayer's company so they can offer they services in Colombia. It is hosted and managed in godaddy.
+
+[AYG Abogados Website](https://www.aygabogados.co/)
 
 ```markdown
 Syntax highlighted code block
