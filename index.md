@@ -29,7 +29,7 @@ To view and/or download my resume: [Click here](https://pdfhost.io/v/O4yL2rTYb_C
 
 [GitHub URL](https://github.com/ffelipegupe)
 
-[![LinkedIn](https://www.linkedin.com/in/fabio-felipe-gutierrez/
+[LinkedIn](https://www.linkedin.com/in/fabio-felipe-gutierrez/
 
 ```markdown
 Syntax highlighted code block
